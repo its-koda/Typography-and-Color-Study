@@ -1,52 +1,91 @@
-# 🐔 Atividade de Pesquisa - Tipografia e Cores
+# 🎨 Typography and Color Study
 
-## 📋 Sobre o Projeto
-
-Este repositório contém uma atividade de pesquisa e prática desenvolvida para o componente curricular de **Tipografia e Cores** no curso Técnico em Desenvolvimento de Sistemas (Escola SENAI A. Jacob Lafer).
-
-O objetivo do exercício é analisar a aplicação de conceitos de design web, contraste, paleta de cores, tipografia, arranjo de elementos e usabilidade em sites reais da web, identificando boas práticas e pontos de melhoria.
+[🇺🇸 English Version](#-english-version) | [🇧🇷 Versão em Português](#-versão-em-português)
 
 ---
 
-## 🔍 Análise de Sites (Atividade de Pesquisa)
+## 🇺🇸 English Version
 
-### 🌟 1. Exemplo de Site Adequado (Boas Práticas)
-* **Pontos Positivos:**
-  * Excelente escolha e complemento de cores.
-  * Ótimos efeitos visuais e animações.
-  * Botões funcionais e bem dispostos.
-  * Bom contraste e distribuição visual dos elementos.
-* **Desvantagens / Pontos de Atenção:**
-  * Excesso de informações acumuladas (o uso intensivo de animações ao passar o mouse pode dificultar a assimilação do conteúdo).
-  * O enquadramento de alguns elementos poderia ser melhor ajustado.
-* **Propostas de Melhoria:**
-  * Melhor arranjo dos elementos na página.
-  * Otimização do fluxo de informações e moderação nas animações para melhorar a experiência do usuário (UX).
+### 📋 About the Project
+This repository contains a research and practical activity focused on analyzing the application of **web design principles**, including color contrast, palette harmony, typography, layout arrangement, and usability in real websites.
+
+The goal is to identify **good design practices** and **areas for improvement**, emphasizing visual balance and user experience (UX).
 
 ---
 
-### ⚠️ 2. Exemplo de Site Inadequado: [Berkshire Hathaway Inc.](https://berkshirehathaway.com/)
-* **Vantagens:**
-  * Boa visualização direta do conteúdo.
-  * Não possui poluição visual por imagens pesadas ou anúncios.
-* **Desvantagens:**
-  * Ausência quase total de design visual (CSS estético), resultando em uma interface pouco atraente.
-  * Informações muito agrupadas e texto denso, apesar da organização básica em tópicos.
-* **Propostas de Melhoria:**
-  * Aplicação de estilos CSS modernos para aprimorar a identidade visual, tipografia e espaçamentos.
-  * Reorganização do layout e hierarquia visual das informações.
+### 🔍 Website Analysis
+
+#### ✅ Example of a Well-Designed Website
+**Strengths:**
+- Excellent color combinations and visual harmony.  
+- Effective animations and interactive elements.  
+- Functional buttons and well-organized layout.  
+- Good contrast and visual distribution.  
+
+**Weaknesses:**
+- Excessive information and animations may overwhelm the user.  
+- Some elements could be better aligned or framed.  
+
+**Suggestions for Improvement:**
+- Optimize the arrangement of elements.  
+- Reduce animation intensity and refine information flow for better UX.  
 
 ---
 
-## 👥 Informações Acadêmicas
+#### ⚠️ Example of a Poorly Designed Website
+**Strengths:**
+- Clear content visibility.  
+- Minimal visual clutter and no heavy media.  
 
-* **Escola:** SENAI A. Jacob Lafer
-* **Curso:** Técnico de Desenvolvimento de Sistemas (Turma 1IF)
-* **Componente Curricular:** Tipografia e Cores
-* **Professores:** André Luiz Denani e Raul Porto Lopes
-* **Alunos Integrantes:**
-  * Júlio César Lourenço Soares (Nº 14)
-  * Stefany Marazo Estevam (Nº 28)
-* **Data:** 18/08/2026
+**Weaknesses:**
+- Lack of visual styling (CSS), resulting in a plain interface.  
+- Dense text blocks and limited hierarchy.  
+
+**Suggestions for Improvement:**
+- Apply modern CSS styling to enhance visual identity and typography.  
+- Reorganize layout and improve visual hierarchy.  
+
+---
+
+## 🇧🇷 Versão em Português
+
+### 📋 Sobre o Projeto
+Este repositório apresenta uma atividade de pesquisa e prática voltada à análise da aplicação de **princípios de design web**, como contraste de cores, harmonia de paleta, tipografia, organização de layout e usabilidade em sites reais.
+
+O objetivo é identificar **boas práticas de design** e **pontos de melhoria**, com foco no equilíbrio visual e na experiência do usuário (UX).
+
+---
+
+### 🔍 Análise de Sites
+
+#### ✅ Exemplo de Site Bem Estruturado
+**Vantagens:**
+- Excelente combinação e complemento de cores.  
+- Bons efeitos visuais e animações.  
+- Botões funcionais e bem posicionados.  
+- Bom contraste e distribuição dos elementos.  
+
+**Desvantagens:**
+- Excesso de informações e animações pode dificultar a leitura.  
+- Alguns elementos poderiam ter melhor enquadramento.  
+
+**Propostas de Melhoria:**
+- Melhorar o arranjo dos elementos.  
+- Reduzir a intensidade das animações e otimizar o fluxo de informações para aprimorar a UX.  
+
+---
+
+#### ⚠️ Exemplo de Site com Problemas de Design
+**Vantagens:**
+- Conteúdo direto e sem poluição visual.  
+- Ausência de imagens pesadas ou anúncios.  
+
+**Desvantagens:**
+- Falta de estilo visual (CSS), deixando a interface pouco atraente.  
+- Texto denso e pouca hierarquia visual.  
+
+**Propostas de Melhoria:**
+- Aplicar estilos modernos em CSS para aprimorar identidade visual e tipografia.  
+- Reorganizar o layout e melhorar a hierarquia das informações.  
 
 ---
